@@ -1,0 +1,18 @@
+
+
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+    width: auto;
+}
+
+
+
+.menu {
+	margin-left: 10px;
+}
+
+.rc-slider {
+  width: 230px;
+}
